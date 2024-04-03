@@ -1,16 +1,12 @@
-# api_client
+# api-client
 
-A new Flutter project.
+## 项目愿景
+因为postman在国内使用越来越慢，而且基于云，所以想编写一个基于flutter的本地的api请求软件
 
-## Getting Started
+## 特性
+- [] 项目管理
+- [] 目录管理
+- [] 环境管理
+- [] 支持简单的GET POST PUT DELETE
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
